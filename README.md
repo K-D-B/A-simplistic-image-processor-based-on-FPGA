@@ -1,3 +1,9 @@
+<!--
+ * @Author: Kaixu Chen   Moondok
+ * @Date: 2023-02-15 20:09:20
+ * @LastEditTime: 2023-02-15 20:56:01
+ * @Description: 
+-->
 # <center> MIP (Moon Image Processor)
 
 ![GitHub](https://img.shields.io/github/license/K-D-B/A-simplistic-image-processor-based-on-FPGA)<img src="https://img.shields.io/badge/powered by-ddl-brightgreen"><img src="https://img.shields.io/github/languages/top/K-D-B/A-simplistic-image-processor-based-on-FPGA">
@@ -8,7 +14,7 @@ This is a simplistic image processor based on ```FPGA ``` with 3 periphery devic
 
 ## Acknowledgement
 
-Great thanks to my predecessor [waq]([wswaq (github.com)](https://github.com/wswaq)) and the owner of [this repository]([pengchengwei54610/Digital-Logic-BIG-HW: 同济大学2018级数字逻辑大作业：基于键盘与VGA显示屏实现的小游戏 (github.com)](https://github.com/pengchengwei54610/Digital-Logic-BIG-HW)) 
+Great thanks to my predecessor [waq]([wswaq (github.com)](https://github.com/wswaq)) and the owner of [this repository]([pengchengwei54610/Digital-Logic-BIG-HW: 同济大学2018级数字逻辑大作业：基于键盘与VGA显示屏实现的小游戏 (github.com)](https://github.com/pengchengwei54610/Digital-Logic-BIG-HW))
 
 ## Contact me
 
