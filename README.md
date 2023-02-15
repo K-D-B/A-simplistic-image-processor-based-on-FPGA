@@ -1,12 +1,6 @@
-<!--
- * @Author: Kaixu Chen   Moondok
- * @Date: 2023-02-15 20:09:20
- * @LastEditTime: 2023-02-15 20:56:01
- * @Description: 
--->
 # <center> MIP (Moon Image Processor)
 
-![GitHub](https://img.shields.io/github/license/K-D-B/A-simplistic-image-processor-based-on-FPGA)<img src="https://img.shields.io/badge/powered by-ddl-brightgreen"><img src="https://img.shields.io/github/languages/top/K-D-B/A-simplistic-image-processor-based-on-FPGA">
+![GitHub](https://img.shields.io/github/license/K-D-B/A-simplistic-image-processor-based-on-FPGA)   <img src="https://img.shields.io/badge/powered by-ddl-brightgreen">   <img src="https://img.shields.io/github/languages/top/K-D-B/A-simplistic-image-processor-based-on-FPGA">   
 
 ## Overview
 
