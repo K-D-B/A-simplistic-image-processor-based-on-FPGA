@@ -21,7 +21,7 @@
 
 
 module MODULE_SELECT21(
-    input [2:0] select_signal,
+    input [3:0] select_signal,
     input [2:0] title_color,
     input [11:0] camera_color,
     input clk,
@@ -31,7 +31,7 @@ module MODULE_SELECT21(
     assign vga_color=tmp;
     always @(posedge clk) 
     begin
-        if(select_signal!=3'b000)
+        if(select_signal!=4'b0000)
             tmp=camera_color;
         else
             tmp={{(9){title_color[2]}},title_color};
