@@ -3,8 +3,6 @@ module MODULE_STATIC_PROCESS (
     input clk,
     input rst,
     input [3:0] state_info,
-    input [2:0] state_order,
-
     input [11:0] read_from_aux,
     input [11:0] read_from_ram,
 
