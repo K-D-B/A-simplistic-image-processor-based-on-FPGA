@@ -8,7 +8,7 @@ This is a simplistic image processor based on ```FPGA ``` with 3 periphery devic
 
 ## Acknowledgement
 
-Great thanks to my predecessor [waq]([wswaq (github.com)](https://github.com/wswaq)) and the owner of [this repository]([pengchengwei54610/Digital-Logic-BIG-HW: 同济大学2018级数字逻辑大作业：基于键盘与VGA显示屏实现的小游戏 (github.com)](https://github.com/pengchengwei54610/Digital-Logic-BIG-HW))
+Great thanks to my predecessor [waq](https://github.com/wswaq) and the owner of [this repository](https://github.com/pengchengwei54610/Digital-Logic-BIG-HW)
 
 ## Contact me
 
