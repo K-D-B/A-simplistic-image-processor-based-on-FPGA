@@ -12,6 +12,22 @@
 
 This is a simplistic image processor based on ```FPGA ``` with 3 periphery devices ( ```OV2640``` camera, ``` PS2``` keyboard and ```VGA```). By pressing specific buttons, not only can you add different filters to the video stream captured by the camera , but sharpen the image or detect the edges .
 
+## RTL schemantic
+
+![](./schematic.jpg)
+
+## Develop environment
+
++ Vivado 2016.2
++ Visual Studio Code
+
+## Devices
+
++ DIGILENT Nexys4 DDR™ FPGA Board
++ PS/2 Keyboard
++ VGA
++ WaveShare OV2640 camera
+
 ## Acknowledgement
 
 Great thanks to my predecessor [waq](https://github.com/wswaq) and the owner of [this repository](https://github.com/pengchengwei54610/Digital-Logic-BIG-HW)
