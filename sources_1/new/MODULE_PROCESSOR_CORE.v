@@ -35,6 +35,12 @@ begin
       buffer=(raw_color[11:8]*393+raw_color[7:4]*769+raw_color[3:0]*189)/1000;
       buffer1=(raw_color[11:8]*349+raw_color[7:4]*686+raw_color[3:0]*168)/1000;
       buffer2=(raw_color[11:8]*272+raw_color[7:4]*534+raw_color[3:0]*131)/1000;
+      if(buffer>4'b1111)
+        buffer[3:0]=4'b1111;
+      if(buffer1>4'b1111)
+        buffer1[3:0]=4'b1111;
+      if(buffer2>4'b1111)
+        buffer2[3:0]=4'b1111;
       ripe_color={buffer[3:0],buffer1[3:0],buffer2[3:0]};
     end
 
