@@ -305,9 +305,9 @@ case(cnt)
     8'h8D :
         data_out <= 16'hC651;
     8'h8E :
-        data_out <= 16'hBF80;/////////
+        data_out <= 16'hBF80;
     8'h8F :
-        data_out <= 16'hC710;////////
+        data_out <= 16'hC710;
     8'h90 :
         data_out <= 16'hB666;
     8'h91 :
