@@ -1,7 +1,7 @@
 <!--
  * @Author: Kaixu Chen   Moondok
  * @Date: 2023-02-15 20:09:20
- * @LastEditTime: 2023-02-15 21:18:21
+ * @LastEditTime: 2023-02-19 13:38:35
  * @Description: 
 -->
 # <center> MIP (Moon Image Processor)
@@ -10,7 +10,7 @@
 
 ## Overview
 
-This is a simplistic image processor based on ```FPGA ``` with 3 periphery devices ( ```OV2640``` camera, ``` PS2``` keyboard and ```VGA```). By pressing specific buttons, not only can you add different filters to the video stream captured by the camera , but sharpen the image or detect the edges .
+This is a simplistic image processor based on ```FPGA``` with 3 periphery devices ( ```OV2640``` camera, ```PS2``` keyboard and ```VGA```). By pressing specific buttons, not only can you add different filters to the video stream captured by the camera , but sharpen the image or detect the edges .
 
 ## RTL schemantic
 
